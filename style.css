@@ -1,12 +1,17 @@
-#product-overview {
-  background: red;
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h1 {
-  color: #fff;
-  font-family: 'Indie Flower', sans-serif;
+#product-overview {
+  background: red;
 }
 
 .section-title {
   color: #2dff5c;
 }
+
+#product-overview h1 {
+  color: #fff;
+  font-family: 'Indie Flower', sans-serif;
+}
+
