@@ -21,19 +21,34 @@ body {
 	padding: 20px;
 
 	background: url('./freedom.jpg');
-	background-repeat: no-repeat;
+	/* background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center center;
+	background-position: center center; */
 }
 
 .section-title {
 	color: #2dff5c;
+
+	text-align: center;
 }
 
 #product-overview h1 {
 	font-family: 'Indie Flower', sans-serif;
 
 	color: #fff;
+}
+
+.plan {
+	display: inline-block;
+
+	padding: 16px;
+	margin: 8px;
+	width: 30%;
+
+	background-color: #d5ffdc;
+
+	text-align: center;
+	vertical-align: middle;
 }
 
 .main-header {
